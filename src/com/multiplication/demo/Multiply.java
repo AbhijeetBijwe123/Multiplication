@@ -25,6 +25,12 @@ public class Multiply {
 		a = 100;
 		b = 110;
 		System.out.println("Multiplication : " + a * b);
+		// added by sonam conflict bcoz abhijeet has added some code but sonam not pull that code
+		// and trying to push her data
+		a = 100;
+		b = 110;
+		System.out.println("Multiplication : " + a * b);
+		
 
 	}
 
