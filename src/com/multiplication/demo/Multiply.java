@@ -25,6 +25,9 @@ public class Multiply {
 		a = 100;
 		b = 110;
 		System.out.println("Multiplication : " + a * b);
+		// added from local machine by abhijeet this is conflict example
+		a = 70;
+		b = 80;
 
 	}
 
