@@ -13,6 +13,9 @@ public class Multiply {
 		// added  from local machine
 		a=70;b=80;
 		System.out.println("Multiplication : "+a*b);
+		// added from git hub
+		a=80;b=90;
+		System.out.println("Multiplication : "+a*b);
 		
 
 	}
